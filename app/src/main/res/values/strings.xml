@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_desc">Lê a tela de oferta de corrida do Uber/99 Motorista apenas para calcular R$/km e R$/hora e mostrar o semáforo.</string>
+</resources>
